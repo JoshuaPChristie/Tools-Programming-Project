@@ -1,0 +1,47 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Win32SimpleSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ToolMain.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(88,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(89,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(90,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(91,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(92,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(93,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(94,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(95,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(96,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(108,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(109,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(110,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(114,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(115,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(116,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(120,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(121,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(131,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(132,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(133,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(134,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(135,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(136,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(137,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(138,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(139,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(140,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(412,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(523,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(524,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(553,43): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(557,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(577,43): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(581,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(706,43): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(710,43): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(714,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(718,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(735,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(736,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(752,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(753,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\ToolMain.cpp(892,20): warning C4018: '<': signed/unsigned mismatch
+  Win32SimpleSample.vcxproj -> C:\Users\joshp\Documents\Abertay\Year 4\CMP405\Coursework Non-Git\Coursework\WOFFCEdit\Debug\WoFEdit.exe
